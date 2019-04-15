@@ -1,4 +1,4 @@
-const weather = require("./weather")
+const weather = require("./functions/weather")
 require('dotenv').config()
 
 const event = null
